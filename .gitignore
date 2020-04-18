@@ -1,0 +1,5 @@
+.DS_Store
+.vscode
+win_env
+env
+bin
